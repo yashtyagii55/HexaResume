@@ -108,7 +108,7 @@ HexaResume brings resume templates, editing tools, live previews, and PDF export
 
 ## 🏢 Part of YuvHexa
 
-**HexaResume** is a project developed under **YuvHexa Pvt. Ltd.**, focused on creating modern digital products, useful web platforms, and innovative technology solutions.
+**HexaResume** is a project developed under **YuvHexa**, focused on creating modern digital products, useful web platforms, and innovative technology solutions.
 
 <div align="center">
 
